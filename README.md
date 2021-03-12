@@ -10,8 +10,7 @@
 
 #### 🛠 Tool belt
 
-<img src="https://img.shields.io/static/v1?label=&message=VS Code&color=black&logo=visual studio code" alt="VS Code">
-<img src="https://img.shields.io/static/v1?label=&message=macOs&color=black&logo=apple" alt="Mac OS">
+<img src="https://img.shields.io/static/v1?label=&message=VS Code&color=black&logo=visual studio code" alt="VS Code"> <img src="https://img.shields.io/static/v1?label=&message=macOs&color=black&logo=apple" alt="Mac OS">
 <img src="https://img.shields.io/static/v1?label=&message=Brave (browser)&color=black&logo=brave" alt="Brave Browser">
 <img src="https://img.shields.io/static/v1?label=&message=iTerms&color=black&logo=iterms" alt="iTerms">
 <img src="https://img.shields.io/static/v1?label=&message=Spotify&color=black&logo=spotify" alt="Spotify">
