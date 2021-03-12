@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Michael!
 
 - ⚡️ Currently Sr Front-end Developer @ [Yab](https://yabhq.com)
-- 🔧 Mainly working JavaScript projects.
+- 🔧 Mainly working on JavaScript projects.
 - 👾 Maintaining an open source library of more than 940 SVG icons. [Check it out!](https://jam-icons.com)
 - 📚 Books addict
 - 🇫🇷 French in Canada
