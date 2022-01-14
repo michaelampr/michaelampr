@@ -1,10 +1,8 @@
 ### Hi 👋, I'm Michael!
 
-- ⚡️ Currently Lead Front-end Developer @ [DonkeyMob](https://donkeymob.com)
 - 🔧 Mainly working on JavaScript projects.
 - 👾 Maintaining an open source library of more than 940 SVG icons. [Check it out!](https://jam-icons.com)
 - 📚 Books addict
-- 🇫🇷 French in Canada
 
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaelampr&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
