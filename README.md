@@ -4,7 +4,7 @@
 - 👾 Maintaining an open source library of more than 940 SVG icons. [Check it out!](https://jam-icons.com)
 - 📚 Books addict
 
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaelampr&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+<!---[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=michaelampr&count_private=true&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 #### 🛠 Tool belt
 
